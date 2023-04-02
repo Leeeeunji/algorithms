@@ -25,6 +25,6 @@ def fibonacci(n:int) -> int:
         cnt1[n] = cnt1[n-1] + cnt1[n-2]
         return dp[n]
 
-for t in T:
+for t in
     fibonacci(t)
     print(str(cnt0[t]) + " " + str(cnt1[t]))
